@@ -67,3 +67,11 @@
     ![](./img/security.png)<br>
     「そもそもコードサジェストのために情報を送信する必要がある」とも書いてあります
 
+1. Codeium<br>
+   Codeiumは完全無料のようです<br>
+   ダウンロード<br>
+   https://marketplace.visualstudio.com/items?itemName=Codeium.CodeiumVS<br>
+   インストール<br>
+   https://codeium.com/visual_studio_tutorial<br>
+   使い方<br>
+   https://codeium.com/blog/codeium-copilot-alternative-in-visual-studio-sublime-eclipse<br>
